@@ -165,7 +165,6 @@ p {
     background: #FFF3F3;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    margin-bottom: ;
     transition: 0.5s;
 }
 
@@ -285,6 +284,7 @@ p {
 
 .review-col p {
     padding: 0;
+    cursor: text;
 }
 
 .review-col h3 {
@@ -322,17 +322,17 @@ p {
 
 .footer {
     width: 100%;
-    height: 350px;
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('images/background.jpg');
     background-position: center;
     background-size: cover;
-    margin-top: 200px;
+    margin-top: 100px;
     color: #fff;
     text-align: center;
+    margin-bottom: px;
 }
 
 .footer h2 {
-    padding-top: 40px;
+    padding-top: 100px;
 }
 
 .footer p {
@@ -342,10 +342,6 @@ p {
 .footer .footer-follow p {
     font-size: 20px;
     font-weight: bold;
-}
-
-.footer ul {
-    padding: ;
 }
 
 .footer ul li {
@@ -388,6 +384,10 @@ p {
 }
 
 .footer .copy {
-    padding-top: 40px;;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
 
+.footer-follow {
+    margin-top: 100px;
+}
