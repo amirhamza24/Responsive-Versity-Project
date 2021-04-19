@@ -309,7 +309,7 @@ p {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('images/banner2.jpg');
     background-position: center;
     background-size: cover;
-    padding: 100px 0;
+    padding: 140px 0;
     text-align: center;
     border-radius: 10px; 
 }
